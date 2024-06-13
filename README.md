@@ -1,5 +1,5 @@
 ## Hi there 👋
-🔭 I’m currently working on building computer vision projects!
+🔭 I’m currently working on building computer vision projects!<br>
 🌱 I’m currently learning data structures and algorithms (again)
 <!--
 **gagagaayatri/gagagaayatri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
